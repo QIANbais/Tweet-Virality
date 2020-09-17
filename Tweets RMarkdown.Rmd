@@ -1,6 +1,5 @@
 ---
 title: "Tweets Virality"
-author: "Xinyu Jiang, Siddharth Rawat, Arpit Srivastava, and Qian Wang"
 output: 
   word_document
 ---
